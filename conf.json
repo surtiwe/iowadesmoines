@@ -1,0 +1,12 @@
+
+{
+	"maxplayers" : 1000,
+	"name" : "Iowa RP", 
+	"gamemode" : "roleplay", 
+	"stream-distance" : 500.0,
+	"announce" : true,
+	"language" : "ru",
+	"csharp" : "true",
+	"port": 22005,
+	"voice-chat": true
+}
